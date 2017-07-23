@@ -1,0 +1,16 @@
+@import "colors";
+
+div#wapper {
+  div#container {
+    h1 {
+      margin: 0;
+      padding: 9px 6px;
+      font-size: 16px;
+      font-weight: normal;
+      background-color: $very_dark_magenta;
+      color: $light_gray;
+
+    }
+  }
+
+}
